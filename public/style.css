@@ -41,7 +41,7 @@ header::before {
 }
 
 h1, h2 {
-    background: linear-gradient(135deg, var(--primary), #818cf8);
+    background: linear-gradient(135deg, var(--primary), #8f063f);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
